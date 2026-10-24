@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Raffler",
+  "short_name": "Raffler",
+  "description": "Run community prize raffles without paper tickets. Works fully offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#3b2a8c",
+  "theme_color": "#3b2a8c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
